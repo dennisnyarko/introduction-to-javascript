@@ -3,7 +3,7 @@ let person = {
   age: 30
 };
 
-//displaying results person function
+//displaying results person object
 console.log(person);
 
 // 2) Dot Notation (most common)
