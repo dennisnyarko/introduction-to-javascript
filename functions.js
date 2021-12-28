@@ -6,7 +6,10 @@ let person = {
 //displaying results person function
 console.log(person);
 
-//Another method
-//Dot Notation
+// 2) Dot Notation (most common)
 person.name = 'Kwasi';
+console.log(person.name);
+
+// 3) Bracket Notation
+person['name'] = 'Nyarko';
 console.log(person.name);
